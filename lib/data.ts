@@ -137,6 +137,7 @@ export const skillCategories: SkillCategory[] = [
 ]
 
 export const workExperiences = [
+  /*
   {
     id: "tepia",
     title: "TEPIA",
@@ -147,6 +148,7 @@ export const workExperiences = [
     tags: ["React Native", "AI", "Mobile Development"],
     image: "tepia_logo.svg",
   },
+  */
   {
     id: "akbari",
     title: "UC Irvine – Akbari Lab",
